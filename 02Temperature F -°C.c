@@ -10,7 +10,8 @@ int main()
     step = 20; /* Tamaño del incremento */
     
     fahr = lower;
-    while (fahr<=upper) {
+    while (fahr<=upper)
+    {
         celsius = 5*(fahr+32)/9;
         printf("%d\t%d\n", fahr, celsius);
         fahr = fahr+step;
