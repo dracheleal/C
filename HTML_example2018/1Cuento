@@ -1,0 +1,23 @@
+<HTML>                                                <!-- Desde aqui abres para poner tu codigo -->
+<TITLE> Cuento </TITLE>                               <!-- En title se pone el nombre de la pestaña -->
+<H1> <CENTER> Tortugas exponenciales </H1>            <!-- H1 es el encabezado de lo que va a ser el contenido -->
+<BODY>                                                <!-- BODY es el cuerpo del contenido, todo el relleno -->
+<body bgcolor="691400">                               <!-- bgcolor sera el color que usara tu letra y el fondo de la pagina -->
+<CENTER>                                              <!-- CENTER es para justificar el contenido, de esta manera que estuviera al cnetro -->
+<img src="Tortuga.jpg"                               
+width="600"                                          
+height="400"> <br>                                    <!-- Aqui pondria una imagen abriendolo desde la ubicacion de la misma carpeta -->
+<font size="5">                                       <!-- font size es el tamaño de letra -->
+<p align=justify>                                     <!-- Aqui se ajusta el texto desde que se menciona el "p" -->
+
+No vayamos tan lejos a lo que ya estabamos cercas de conocer, cuando tenemos un pensamiento a donde va, acaso viajara a un lugar cuando recordamos momentos con alguien o con algo, dificilmente regresa ese recuerdo cuando la pasamos bien con compañia, te distraes y te desconectas de aquellos pensamientos negativos que alguna vez tuviste. 
+Todo esto nos lleva a pensar que idea tan loca sería que nuestros pensamientos fueran con una criatura dimencional. ¿Te haz sentido conectado con algo sin que te hayas dado cuenta? 
+Hey!! Yo una vez soñe que volaba, no en cualquier lado, sino en el espacio viendo el "vacio" pero acompañado de luz, parecían ser estrellas luminosas.
+Tenian pinta de no ser de mi existente galaxia, lo digo porque estas estaban mucho más grandes, yo . . .   Vi algo grande más adelante, tenia forma de ¿Elefante?, ¿Una ciudad? o ¿Una tortuga?
+Fue impresionante lo que vi, nada más y nada menos que una gigantesca tortuga del tamaño de un campo de futbol, al parecer tenia vida, se movia y hacia sonidos, raro ya que en el espacio no hay sonido, pero hey era un sueño, no la realidad.
+Sigo esperando el día que vuelva a verla en uno de mis sueños y si no es que lo vere en mi otra vida, sin duda espero que fuera la segunda para sentirlo más real.
+
+</p>                                                  <!-- Aquí se cierran las condiciones -->
+</font>
+</BODY>
+</HTML>
